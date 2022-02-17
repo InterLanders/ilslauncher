@@ -240,17 +240,6 @@
 
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-20",
-                    "name": "WesterosCraft Resource Pack",
-                    "type": "File",
-                    "artifact": {
-                        "size": 53240128,
-                        "MD5": "d26483bfc73b71af57499f4ac8932e7c",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip"
-                    }
-                },
-                {
                     "id": "net.optifine:optifine:1.12.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
